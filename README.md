@@ -21,7 +21,7 @@ Which product categories contribute most revenue?
 Which customer segments are most valuable?
 What shipping methods do customers prefer?
 Where should the business focus its growth strategy?
-## Dataset Information
+## Dataset Link
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 
