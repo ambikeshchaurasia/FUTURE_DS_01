@@ -109,7 +109,7 @@ Build sales forecasting models.
 Implement customer lifetime value analysis.
 Develop inventory optimization strategies.
 ## Dashboard Preview
-https://github.com/ambikeshchaurasia/FUTURE_DS_01/blob/main/Dashboard.png
+![Dashboard](Dashoard.png)
 ## Repository Structure
 Super-Store-Sales-Dashboard/
 │
@@ -132,9 +132,8 @@ These insights can help businesses improve marketing, inventory planning, and cu
 
 ## Author
 
-Ambikesh Chaurasia
+**Ambikesh Chaurasia**
 
-Aspiring Data Analyst | Power BI | Python | SQL
 
 GitHub: https://github.com/ambikeshchaurasia
 
