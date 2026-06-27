@@ -108,8 +108,11 @@ Long-Term
 Build sales forecasting models.
 Implement customer lifetime value analysis.
 Develop inventory optimization strategies.
-## Dashboard Preview
-![Dashboard](Dashoard.png)
+## 📷 Dashboard Preview
+
+### Dashboard Overview
+
+![Dashboard](Dashboard.png)
 ## Repository Structure
 Super-Store-Sales-Dashboard/
 │
